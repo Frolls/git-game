@@ -1,5 +1,7 @@
 # Welcome to the git-game!!
 
+--> for jenkins
+
 This is a terminal game designed to test your knowledge of git commands.
 Each level in the game is a task to perform on this repo.
 Once you perform that task, you will be given your next task.
